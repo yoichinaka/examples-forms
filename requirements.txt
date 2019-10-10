@@ -1,6 +1,7 @@
 Flask
 Gunicorn
 wtforms
+flask_wtf
 numpy
 pandas
 sklearn
