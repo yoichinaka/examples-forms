@@ -1,2 +1,7 @@
 Flask
 Gunicorn
+wtforms
+numpy
+pandas
+sklearn
+pickle
