@@ -4,4 +4,3 @@ wtforms
 numpy
 pandas
 sklearn
-pickle
